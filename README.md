@@ -49,9 +49,9 @@ jekyll 使用教程：<https://www.jekyll.com.cn/>
 title: 刘敬贺的博客 # 网站的标题
 description: > # 网站的描述，可能会出现在搜索引擎展示结果中
   基于 jekyll 的 Github Pages 个人博客网站，技术的学习、总结、分享与提升
-url: "https://knightyun.github.io" # 网站地址
-github_repo: knightyun/knightyun.github.io
-github_profile: "https://github.com/knightyun" # GitHub 个人主页
+url: "https://ljh9999.github.io" # 网站地址
+github_repo: ljh9999/ljh9999.github.io
+github_profile: "https://github.com/ljh9999" # GitHub 个人主页
 user: "刘敬贺" # 用于侧栏展示的名字
 user_email: "909950860@qq.com" # 侧栏展示的联系方式
 paginate: 5 # 主页展示的博客文章数量
